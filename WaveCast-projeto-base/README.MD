@@ -35,4 +35,4 @@ O projeto garante:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/oguilhermekenzo/aluraplay-projeto-base.git
+   git clone https://github.com/oguilhermekenzo/
